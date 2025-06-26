@@ -44,4 +44,4 @@ I wanted to challenge myself with a full-stack mobile app that's both useful and
 - **UI Components:** React Native Picker, Expo Image Picker
 
 ## What's next?
-**Currently this project is still in development** I'd like to add more features in the future, maybe cloud sync, social sharing, or even deploy it as a web app. 
+**Currently this project is still in development** I'd like to add more features in the future, maybe cloud sync, social sharing, or even deploy it as a web app.
