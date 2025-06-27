@@ -5,7 +5,10 @@ This is my take on a digital wardrobe management app. If you've ever wanted to o
 The Smart Closet lets you manage your wardrobe digitally, create outfits manually, and get intelligent outfit recommendations based on your clothing collection. You can upload photos of your clothes, organize them by category and color, and build outfits piece by piece.
 
 ## Why did I build this?
-I wanted to challenge myself with a full-stack mobile app that's both useful and showcases modern development skills. Wardrobe management is something everyone deals with, and I wanted to create a solution that combines React Native, TypeScript, and intelligent algorithms to make getting dressed easier.
+I wanted to learn/challenge myself with a modern mobile app that's both useful and showcases development skills. Wardrobe management is something everyone deals with, and I wanted to create a solution that combines React Native, TypeScript, and smart algorithms (all things I am learning and wanted to expand on) to make getting dressed easier.
+
+## Is this a full stack app?
+**No, this is a frontend-only (client-side) app.** All data is stored locally on your device using AsyncStorage. There is no backend server or cloud database—everything runs on your phone or in your browser. (A future version may add cloud sync or sharing features.)
 
 ## Features
 - **Digital wardrobe management** — upload and organize your clothes with photos
@@ -30,7 +33,7 @@ I wanted to challenge myself with a full-stack mobile app that's both useful and
 
 4. **Run on your preferred platform**:
    - Press `w` for web browser
-   - Im still developing this project so using it on an actual mobile phone may not work yet
+   - I'm still developing this project so using it on an actual mobile phone may not work yet
 
 5. **Start using the app**:
    - Add clothing items with photos and details
@@ -40,8 +43,8 @@ I wanted to challenge myself with a full-stack mobile app that's both useful and
 ## Tech Stack
 - **Frontend:** React Native, Expo, TypeScript
 - **Navigation:** React Navigation
-- **Storage:** AsyncStorage
+- **Storage:** AsyncStorage (local only)
 - **UI Components:** React Native Picker, Expo Image Picker
 
 ## What's next?
-**Currently this project is still in development** I'd like to add more features in the future, maybe cloud sync, social sharing, or even deploy it as a web app.
+**Currently this project is still in development.** I'd like to add more features in the future, such as cloud sync, social sharing, or even deploy it as a web app with backend support.
