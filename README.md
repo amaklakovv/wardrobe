@@ -5,10 +5,7 @@ This is my take on a digital wardrobe management app. If you've ever wanted to o
 The Smart Closet lets you manage your wardrobe digitally, create outfits manually, and get intelligent outfit recommendations based on your clothing collection. You can upload photos of your clothes, organize them by category and color, and build outfits piece by piece.
 
 ## Why did I build this?
-I wanted to learn/challenge myself with a modern mobile app that's both useful and showcases development skills. Wardrobe management is something everyone deals with, and I wanted to create a solution that combines React Native, TypeScript, and smart algorithms (all things I am learning and wanted to expand on) to make getting dressed easier.
-
-## Is this a full stack app?
-**No, this is a frontend-only (client-side) app.** All data is stored locally on your device using AsyncStorage. There is no backend server or cloud database—everything runs on your phone or in your browser. (A future version may add cloud sync or sharing features.)
+I wanted to learn/challenge myself with a modern mobile app that's both useful and showcases development skills. Wardrobe management is something everyone deals with, and I wanted to create a solution that combines React Native, TypeScript, and smart algorithms (all things I am learning and wanted to expand on) to make getting dressed easier. For now the app is front-end only.
 
 ## Features
 - **Digital wardrobe management** — upload and organize your clothes with photos
